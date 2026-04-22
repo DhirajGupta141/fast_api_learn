@@ -11,3 +11,12 @@ dist/
 # Ignore logs
 logs/
 
+
+# ignore Python bytecode
+__pycache__/
+
+# ignore python virtual environment
+fast-api-env/
+
+
+
